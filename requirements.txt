@@ -4,4 +4,4 @@ pdf2image
 langdetect
 pandas
 reportlab
-
+openpyxl
